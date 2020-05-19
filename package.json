@@ -1,5 +1,5 @@
 {
-    "name": "eleventy-plugin-sass",
+    "name": "@nicjohnson/eleventy-plugin-sass",
     "version": "1.0.0",
     "description": "A plugin for sass support in Eleventy",
     "main": "index.js",
