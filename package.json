@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Sonaryr/eleventy-plugin-sass.git"
+        "url": "git+https://github.com/nicjohnson/eleventy-plugin-sass.git"
     },
     "keywords": [
         "eleventy",
@@ -22,9 +22,9 @@
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Sonaryr/eleventy-plugin-sass/issues"
+        "url": "https://github.com/nicjohnson/eleventy-plugin-sass/issues"
     },
-    "homepage": "https://github.com/Sonaryr/eleventy-plugin-sass",
+    "homepage": "https://github.com/nicjohnson/eleventy-plugin-sass",
     "peerDependencies": {
         "@11ty/eleventy": "^0.9.0"
     },
